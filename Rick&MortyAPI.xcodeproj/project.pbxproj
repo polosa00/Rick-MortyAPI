@@ -13,6 +13,7 @@
 		1154DA142A0B98B500BE4484 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1154DA122A0B98B500BE4484 /* Main.storyboard */; };
 		1154DA162A0B98B600BE4484 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1154DA152A0B98B600BE4484 /* Assets.xcassets */; };
 		1154DA192A0B98B600BE4484 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1154DA172A0B98B600BE4484 /* LaunchScreen.storyboard */; };
+		1154DA212A0B98F000BE4484 /* RickAndMorty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1154DA202A0B98F000BE4484 /* RickAndMorty.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1154DA152A0B98B600BE4484 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1154DA182A0B98B600BE4484 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1154DA1A2A0B98B600BE4484 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1154DA202A0B98F000BE4484 /* RickAndMorty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickAndMorty.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1154DA0C2A0B98B500BE4484 /* AppDelegate.swift */,
 				1154DA0E2A0B98B500BE4484 /* SceneDelegate.swift */,
 				1154DA102A0B98B500BE4484 /* ViewController.swift */,
+				1154DA202A0B98F000BE4484 /* RickAndMorty.swift */,
 				1154DA122A0B98B500BE4484 /* Main.storyboard */,
 				1154DA152A0B98B600BE4484 /* Assets.xcassets */,
 				1154DA172A0B98B600BE4484 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1154DA212A0B98F000BE4484 /* RickAndMorty.swift in Sources */,
 				1154DA112A0B98B500BE4484 /* ViewController.swift in Sources */,
 				1154DA0D2A0B98B500BE4484 /* AppDelegate.swift in Sources */,
 				1154DA0F2A0B98B500BE4484 /* SceneDelegate.swift in Sources */,
